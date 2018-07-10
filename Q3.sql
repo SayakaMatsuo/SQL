@@ -1,6 +1,3 @@
-CREATE TABLE item_category(category_id int PRIMARY KEY AUTO_INCREMENT,category_name VARCHAR(256) NOT NULL);
-INSERT INTO item_category VALUES(1,'â∆ãÔ');
-INSERT INTO item_category VALUES(2,'êHïi');
-INSERT INTO item_category VALUES(3,'ñ{');
-
-
+ÔªøINSERT INTO item_category(category_id,category_name) VALUES(1,'ÂÆ∂ÂÖ∑');
+INSERT INTO item_category(category_id,category_name) VALUES(2,'È£üÂìÅ');
+INSERT INTO item_category(category_id,category_name) VALUES(3,'Êú¨');
